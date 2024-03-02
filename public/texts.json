@@ -1,0 +1,26 @@
+[
+    {
+        "title": "الوظيفة",
+        "description": "Al-Wazhifa al-Shadhiliyya: Recite daily before fajr or early mornings",
+        "key": "alwadhifa",
+        "type": "wird"
+    },
+    {
+        "title": "حِزْبُ الْبَحْرِ",
+        "description": "Hizb al-Bahr: Recite daily after asr or after fajr",
+        "key": "hizbalbahar",
+        "type": "wird"
+    },
+    {
+        "title": "الواقعة",
+        "description": "Al-Waqiah: Recite daily after maghrib",
+        "key": "al-waqia",
+        "type": "quran"
+    },
+    {
+        "title": "يس",
+        "description": "Ya-sin: Recite every friday",
+        "key": "ya-sin",
+        "type": "quran"
+    }
+]
